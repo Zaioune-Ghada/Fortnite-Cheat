@@ -61,3 +61,4 @@ MaxDistance = 500
 Enabled = true
 GlowIntensity = 2.0
 ```
+ 
